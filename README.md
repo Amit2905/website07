@@ -1,8 +1,5 @@
 # Future Ready Tallent Project
 ## NFT Website
-      #### This website basily use for bying the Non-Fungible Token (NFT) or creating their own NFT which is own by 
-      the the client and he has his own ownership on that perticular NFT in this website I make use of HTML, CSS 
-      ,JavaScript and bootstrap and made this beatiful website.
 
 ### Github Repository Linl : https://amit2905.github.io/website07/
 ### Azure Link : https://ashy-coast-056036a10.2.azurestaticapps.net/
