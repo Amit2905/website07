@@ -1,6 +1,6 @@
 # Future Ready Tallent Project
 ## NFT Website
-      This website basily use for bying the Non-Fungible Token (NFT) or creating their own NFT which is own by 
+      #### This website basily use for bying the Non-Fungible Token (NFT) or creating their own NFT which is own by 
       the the client and he has his own ownership on that perticular NFT in this website I make use of HTML, CSS 
       ,JavaScript and bootstrap and made this beatiful website.
 
