@@ -1,6 +1,6 @@
 # Future Ready Tallent Project
 
-Github Repository Linl : https://amit2905.github.io/website07/
+Github Repository Link : https://amit2905.github.io/website07/
 
 Azure Link : https://ashy-coast-056036a10.2.azurestaticapps.net/
 ## NFT Website
